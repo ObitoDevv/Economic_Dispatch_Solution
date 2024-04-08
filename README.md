@@ -1,5 +1,5 @@
-# Fuel-Cost-Optimization-Algorithm
-To solve Economic Power Dispatch Problem
+# Economic-Dispatch-Solution
+To solve Economic Power Dispatch Problem -  Optimizing Fuel Costs
 
 Key Components and Objectives:
 
